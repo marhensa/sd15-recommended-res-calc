@@ -16,4 +16,4 @@ As standalone (Not Using ComfyUI):
 2. Make sure .Py and .Bat file on same folder
 3. Double click .Bat file! (.Sh for Linux)
 4. Input your desired Final Resolution
-5. You'll get recommended SDXL Initial Image Size, and its upscale factor to reach the Final Resolution.
+5. You'll get recommended SD 1.5 Initial Image Size, and its upscale factor to reach the Final Resolution.
