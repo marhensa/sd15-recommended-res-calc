@@ -1363,64 +1363,6 @@
       "bgcolor": "#535"
     },
     {
-      "id": 20,
-      "type": "LoraLoader",
-      "pos": [
-        91,
-        -372
-      ],
-      "size": {
-        "0": 482.14434814453125,
-        "1": 126
-      },
-      "flags": {},
-      "order": 11,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "model",
-          "type": "MODEL",
-          "link": 30
-        },
-        {
-          "name": "clip",
-          "type": "CLIP",
-          "link": 31
-        }
-      ],
-      "outputs": [
-        {
-          "name": "MODEL",
-          "type": "MODEL",
-          "links": [
-            95
-          ],
-          "shape": 3,
-          "slot_index": 0
-        },
-        {
-          "name": "CLIP",
-          "type": "CLIP",
-          "links": [
-            96
-          ],
-          "shape": 3,
-          "slot_index": 1
-        }
-      ],
-      "title": "SDXL LoRA",
-      "properties": {
-        "Node name for S&R": "LoraLoader"
-      },
-      "widgets_values": [
-        "SD15\\Enhancement\\more_details.safetensors",
-        0,
-        0
-      ],
-      "color": "#2a363b",
-      "bgcolor": "#3f5159"
-    },
-    {
       "id": 41,
       "type": "LoraLoader",
       "pos": [
@@ -1719,6 +1661,63 @@
       ],
       "color": "#233",
       "bgcolor": "#355"
+    },
+    {
+      "id": 20,
+      "type": "LoraLoader",
+      "pos": [
+        91,
+        -372
+      ],
+      "size": {
+        "0": 482.14434814453125,
+        "1": 126
+      },
+      "flags": {},
+      "order": 11,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "model",
+          "type": "MODEL",
+          "link": 30
+        },
+        {
+          "name": "clip",
+          "type": "CLIP",
+          "link": 31
+        }
+      ],
+      "outputs": [
+        {
+          "name": "MODEL",
+          "type": "MODEL",
+          "links": [
+            95
+          ],
+          "shape": 3,
+          "slot_index": 0
+        },
+        {
+          "name": "CLIP",
+          "type": "CLIP",
+          "links": [
+            96
+          ],
+          "shape": 3,
+          "slot_index": 1
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "LoraLoader"
+      },
+      "widgets_values": [
+        "SD15\\Enhancement\\more_details.safetensors",
+        0,
+        0
+      ],
+      "color": "#2a363b",
+      "bgcolor": "#3f5159"
     }
   ],
   "links": [
