@@ -4,7 +4,7 @@ A simple script (also a Custom Node in ComfyUI), to calculate and automatically 
 **Usage showcase in ComfyUI**
 ![image](https://github.com/marhensa/sd15-recommended-res-calc/assets/816600/f8bca01a-7f6a-4a5b-9ee7-c85c7ceac9c5)
 
-Example Workflow of usage in ComfyUI : [JSON](https://github.com/marhensa/sd15-recommended-res-calc/blob/main/_use-case-example-comfyui-nodes/sd15-recommended-res-calc_upscale-case.json) / [PNG](https://github.com/marhensa/sd15-recommended-res-calc/blob/main/_use-case-example-comfyui-nodes/sd15-recommended-res-calc_upscale-case.png)
+Example Workflow of usage in ComfyUI : [JSON](https://github.com/marhensa/sd15-recommended-res-calc/blob/main/_use-case-sd15-example-comfyui-nodes/sd15-recommended-res-calc_upscale-case.json) / [PNG](https://github.com/marhensa/sd15-recommended-res-calc/blob/main/_use-case-sd15-example-comfyui-nodes/sd15-recommended-res-calc_upscale-case.png)
 
 **To install it as ComfyUI custom node using manual Git Clone Operation** :
 1. Go to this folder /ComfyUI/custom_nodes/
