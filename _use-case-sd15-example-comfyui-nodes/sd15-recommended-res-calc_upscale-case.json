@@ -1297,7 +1297,7 @@
         "text": ""
       },
       "widgets_values": [
-        "Green/Top: Upscale ON\nRed/Bottom: Upscale OFF\n\nUpscale OFF meaning it won't get the desired resolution, only using the recommended base SDXL resolution capabilities."
+        "Green/Top: Upscale ON\nRed/Bottom: Upscale OFF\n\nUpscale OFF meaning it won't get the desired resolution, only using the recommended base SD resolution capabilities."
       ],
       "color": "#233",
       "bgcolor": "#355"
@@ -1532,7 +1532,7 @@
         302
       ],
       "size": {
-        "0": 315,
+        "0": 319.20001220703125,
         "1": 162
       },
       "flags": {},
